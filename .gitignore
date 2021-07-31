@@ -36,8 +36,6 @@ yarn-error.log
 # tools
 tools/taskctrl/taskCtrlTrace/*
 
-.env
-
 !.gitkeep
 
 composer.lock

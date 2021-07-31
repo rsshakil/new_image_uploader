@@ -12,7 +12,7 @@
 # php/composer already installed
 
 # git clone
-git clone https://github.com/rsshakil/image_uploader.git
+git clone https://github.com/rsshakil/new_image_uploader.git
 
 composer install
 

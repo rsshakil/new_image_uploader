@@ -116,7 +116,7 @@ var router = new VueRouter({
     linkActiveClass: "active", // active class for non-exact links.
     linkExactActiveClass: "active", // active class for *exact* links.
     mode: 'history',
-    base: '/image_uploader'
+    base: '/new_image_uploader'
 });
 
 router.beforeEach((to, from, next) => {
